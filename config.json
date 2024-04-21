@@ -1,0 +1,9 @@
+{
+    "cameras": [
+        {
+            "name": "Camera1",
+            "rtsp_url": "rtsp://service:Admin2024!@192.168.1.100/stream1",
+            "frame_resolution": [1280, 720]
+        }
+    ]
+}
